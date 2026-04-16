@@ -41,8 +41,7 @@ warnings.filterwarnings('ignore')
 # ============================================================
 
 
-import os
-os.getenv("GROQ_API_KEY")
+api_key = os.getenv("GROQ_API_KEY")
 llm = ChatGroq(
     model_name="llama-3.3-70b-versatile",
     temperature=0.3
