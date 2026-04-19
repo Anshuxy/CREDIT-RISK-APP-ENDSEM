@@ -1,5 +1,9 @@
 # 🏦 Credit Risk AI App (Agentic AI System)
 
+🎥 **Project Demo Video:** [Watch Here](https://drive.google.com/file/d/1sYrcD3A94Ox-SuVhZCOqdXSjRNnSgxSp/view?usp=sharing)
+
+---
+
 ## 📌 Overview
 
 This project is an **AI-powered credit risk assessment system** that predicts whether a borrower is likely to default and generates a **detailed, explainable report**.
