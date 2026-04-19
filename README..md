@@ -1,5 +1,7 @@
 # 🏦 Credit Risk AI App (Agentic AI System)
 
+🌐 **Live Deployed App:** [Open Project](https://credit-risk-app-endsem-anshuyadav.streamlit.app/)
+
 🎥 **Project Demo Video:** [Watch Here](https://drive.google.com/file/d/1sYrcD3A94Ox-SuVhZCOqdXSjRNnSgxSp/view?usp=sharing)
 
 ---
